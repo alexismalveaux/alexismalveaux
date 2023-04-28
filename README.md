@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alexismalveaux
 - 👀 I’m a senior studying Computational and Systems Biology, Neurosystems @ UCLA with a graduation date of June 2023. 
 - 🌱 I have backgrounds in Bioinformatics Research (incl. RNA-Seq), Product Management, Brain Computer Interfaces, Project Management, and Cross-Functional Leadership. 
-- 💞️ I’m looking for full-time opportunities starting Summer/Fall 2023 in Product Management, Consulting, and Biotech.
 - 📫 You can reach me at (https://www.linkedin.com/in/alexismalveaux/).
 - 🌸 My interests include Brazilian Jiu Jitsu, Cat Cafes, and Human Consciousness!
